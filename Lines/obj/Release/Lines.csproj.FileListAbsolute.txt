@@ -1,0 +1,56 @@
+C:\Users\PC\Desktop\темы для курсачей\Lines\bin\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\темы для курсачей\Lines\bin\Release\linesk.application
+C:\Users\PC\Desktop\темы для курсачей\Lines\bin\Release\linesk.exe
+C:\Users\PC\Desktop\темы для курсачей\Lines\bin\Release\linesk.pdb
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\Lines.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.FormMain.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.Properties.Resources.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.FormEndGame.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.FormGameSetting.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\Lines.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.application
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.exe
+C:\Users\PC\Desktop\темы для курсачей\Lines\obj\Release\linesk.pdb
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.exe
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.pdb
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\bin\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\bin\Release\linesk.application
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\bin\Release\linesk.exe
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\bin\Release\linesk.pdb
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\Lines.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.FormMain.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.Properties.Resources.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.FormEndGame.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.FormGameSetting.resources
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\Lines.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\темы для курсачей\Lines(may be yes may be no)\obj\Release\linesk.application
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.exe
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.pdb
+C:\Users\PC\Desktop\Mahjong\bin\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\Mahjong\bin\Release\linesk.application
+C:\Users\PC\Desktop\Mahjong\bin\Release\linesk.exe
+C:\Users\PC\Desktop\Mahjong\bin\Release\linesk.pdb
+C:\Users\PC\Desktop\Mahjong\obj\Release\Lines.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.FormMain.resources
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.Properties.Resources.resources
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.FormEndGame.resources
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.FormGameSetting.resources
+C:\Users\PC\Desktop\Mahjong\obj\Release\Lines.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\Mahjong\obj\Release\linesk.application
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.exe
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.pdb
+C:\Users\PC\Desktop\Lines\bin\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\Lines\bin\Release\linesk.application
+C:\Users\PC\Desktop\Lines\bin\Release\linesk.exe
+C:\Users\PC\Desktop\Lines\bin\Release\linesk.pdb
+C:\Users\PC\Desktop\Lines\obj\Release\Lines.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.FormMain.resources
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.Properties.Resources.resources
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.FormEndGame.resources
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.FormGameSetting.resources
+C:\Users\PC\Desktop\Lines\obj\Release\Lines.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.exe.manifest
+C:\Users\PC\Desktop\Lines\obj\Release\linesk.application
